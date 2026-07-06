@@ -83,6 +83,12 @@ Fixed log formatting bug in the proxy registry; addressed security review feedba
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumedhvats&bg_color=0d1117&color=b870ff&line=b870ff&point=d4a3ff&area=true&area_color=b870ff15&hide_border=true&custom_title=%20" width="95%" />
 
+<br/><br/>
+
+<picture>
+  <img width="55%" src="https://leetcard.jacoblin.cool/sumedhvats2004?theme=dark&font=Fira%20Code&ext=activity" />
+</picture>
+
 </div>
 
 <br/>
@@ -107,6 +113,10 @@ Fixed log formatting bug in the proxy registry; addressed security review feedba
 &nbsp;&nbsp;
 <a href="https://dev.to/sumedhvats">
   <img src="https://img.shields.io/badge/Dev.to-0d1117?style=for-the-badge&logo=devdotto&logoColor=b870ff" height="35" />
+</a>
+&nbsp;&nbsp;
+<a href="https://leetcode.com/u/sumedhvats2004/">
+  <img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=b870ff" height="35" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:sumedhvats2004@gmail.com">
