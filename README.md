@@ -85,10 +85,6 @@ Fixed log formatting bug in the proxy registry; addressed security review feedba
 
 <br/><br/>
 
-<picture>
-  <img width="55%" src="https://leetcard.jacoblin.cool/sumedhvats2004?theme=dark&font=Fira%20Code&ext=activity" />
-</picture>
-
 </div>
 
 <br/>
