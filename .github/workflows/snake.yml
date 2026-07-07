@@ -2,9 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    # Runs every 24 hours (at midnight UTC)
     - cron: "0 0 * * *"
-  workflow_dispatch: # Allows you to manually run it from the Actions tab
+  workflow_dispatch:
 
 jobs:
   generate:
@@ -12,17 +11,14 @@ jobs:
     timeout-minutes: 10
     
     steps:
-      # Generates the snake game from the user's contribution graph
       - name: Generate GitHub Snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=%23b870ff&color_dots=%23d4a3ff,%23c48cff,%23b870ff,%23995cff,%237a44d8&color_background=%230d1117
+            dist/github-snake.svg?color_snake=%23b870ff&color_dots=%23ebedf0,%23d4a3ff,%23c48cff,%23b870ff,%237a44d8
+            dist/github-snake-dark.svg?color_snake=%23b870ff&color_dots=%230d1117,%233a2359,%237a44d8,%23995cff,%23b870ff&color_background=%230d1117
 
-      # Pushes the generated files to a branch (e.g., 'output') so they can be linked in your README
       - name: Push Snake to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
