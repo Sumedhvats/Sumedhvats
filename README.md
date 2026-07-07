@@ -6,7 +6,7 @@
 
 <a href="mailto:sumedhvats2004@gmail.com"><img src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-black?style=for-the-badge&labelColor=b870ff&color=0d1117" /></a>
 &nbsp;
-<a href="http://sumedhvats.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-sumedhvats.vercel.app-black?style=for-the-badge&labelColor=b870ff&color=0d1117" /></a>
+<a href="http://svats.me/"><img src="https://img.shields.io/badge/PORTFOLIO-svats.me-black?style=for-the-badge&labelColor=b870ff&color=0d1117" /></a>
 
 </div>
 
@@ -88,7 +88,7 @@ Fixed log formatting bug in the proxy registry; addressed security review feedba
 <div align="center">
 <br/>
 
-<a href="http://sumedhvats.vercel.app/">
+<a href="http://svats.me/">
   <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=b870ff" height="35" />
 </a>
 &nbsp;&nbsp;
