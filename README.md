@@ -10,8 +10,6 @@
 
 </div>
 
-<br/>
-
 ## `GET /about` &nbsp;→&nbsp; `200 OK`
 
 ```jsonc
@@ -81,10 +79,6 @@ Fixed log formatting bug in the proxy registry; addressed security review feedba
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumedhvats&bg_color=0d1117&color=b870ff&line=b870ff&point=d4a3ff&area=true&area_color=b870ff15&hide_border=true&custom_title=%20" width="95%" />
-
-<br/><br/>
-
 </div>
 
 <br/>
@@ -126,5 +120,13 @@ $ echo "Talk is cheap. Show me the code." # — Linus Torvalds
 ```
 
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Sumedhvats/Sumedhvats/output/ocean.gif" alt="GitHub contribution snake" width="100%" />
+</div>
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b870ff,100:0d1117&height=100&section=footer" width="100%" />
