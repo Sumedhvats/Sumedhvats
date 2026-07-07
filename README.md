@@ -123,9 +123,12 @@ $ echo "Talk is cheap. Show me the code." # — Linus Torvalds
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Sumedhvats/Sumedhvats/output/ocean.gif" alt="GitHub contribution snake" width="100%" />
-</div>
+<!-- GitHub Contribution Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sumedhvats/sumedhvats/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sumedhvats/sumedhvats/output/github-snake.svg" />
+  <img alt="GitHub Snake Game" src="https://raw.githubusercontent.com/sumedhvats/sumedhvats/output/github-snake.svg" />
+</picture>
 
 <br/>
 
